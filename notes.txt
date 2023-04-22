@@ -1,0 +1,5 @@
+#1 npx create-react-app reduxtut
+
+#2 npm install redux
+
+#3 
